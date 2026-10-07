@@ -235,4 +235,4 @@ This repository serves as the official landing page for EBookME. The software is
 **Get the most recent version of EBookME today!**
 
 ---
-**Last updated:** 2026-10-06 21:30:03 UTC
+**Last updated:** 2026-10-07 01:17:58 UTC
